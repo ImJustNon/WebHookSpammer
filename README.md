@@ -5,7 +5,7 @@ A webhook spammer Using discordjs
 ```js
 npm install discord.js
 ```
-```
+```js
 const Content = ``; //สิ่งที่ต้องการจะส่ง
 const webhookUrl = ``; //ลิ้ง webhook
 const name = ``; //ชือ webhook
